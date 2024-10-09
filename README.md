@@ -1,5 +1,5 @@
 
-## Hi there, I am Mehmood Hasan 👋  
+## Hi there, I am Mehmood Ul Hasan 👋  
 I’m a passionate Software Engineer specializing in building robust mobile applications. My expertise lies in native Android development using Kotlin and creating cross-platform solutions with Flutter and Dart. With a solid foundation in software development, I excel at transforming ideas into powerful applications, ensuring a smooth transition from concept to deployment in Agile settings.
 
   - Currently, I’m working as a Senior Flutter Developer at Stratagile Pvt Limited, where I focus on creating cutting-edge mobile experiences that meet evolving user needs.
