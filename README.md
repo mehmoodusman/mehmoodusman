@@ -1,7 +1,16 @@
 
+# Hi there, I'm Mehmood Usman 👋
+
+## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmoodusman&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehmoodusman&theme=rainbow)](https://github.com/ryo-ma/github-profile-trophy)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodusman&layout=compact&theme=radical)
+
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehmoodusman&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehmoodusman&theme=radical)](https://git.io/streak-stats)
 
 <!--
