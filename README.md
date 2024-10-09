@@ -1,5 +1,11 @@
 
-# Hi there, I'm Mehmood Usman 👋
+##Hi there, I am Mehmood Hasan 👋  
+I'm a Software Engineer who loves building mobile applications. My current area of expertise is native Android app development and Cross-Flatform (Flutter), primarily using Kotlin for Android and Dart for Flutter. I am a dynamic and passionate individual with extensive experience in the application development lifecycle, from concept through to the delivery of next-generation applications and customizable solutions in an Agile environment.
+
+I am currently working as a Senior Flutter Developer at Stratagile Pvt Limited.
+
+🔭 I am currently working on a messaging application, similar to WhatsApp and Telegram, where users can chat using text messages and exchange photos quickly. Learn more about this application at [Fhetch](https://fhetch.com/).
+
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmoodusman&show_icons=true&theme=radical)
