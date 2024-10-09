@@ -4,8 +4,6 @@ I'm a Software Engineer who loves building mobile applications. My current area 
 
   - I am currently working as a Senior Flutter Developer at Stratagile Pvt Limited.
 
-  - 🔭 I am currently working on a messaging application, similar to WhatsApp and Telegram, where users can chat using text messages and exchange photos quickly. Learn more about this application at [Fhetch](https://fhetch.com/).
-
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmoodusman&show_icons=true&theme=radical)
