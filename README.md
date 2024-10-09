@@ -1,7 +1,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmoodusman&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehmoodusman&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehmoodusman&theme=rainbow)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehmoodusman&theme=radical)](https://git.io/streak-stats)
 
 <!--
